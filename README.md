@@ -1,4 +1,4 @@
 #  Flasher
 
 A very simple app created for fun
-![flasher](FlasherApp.gif)
+![flasher](flasher/flasher/FlasherApp.gif)
